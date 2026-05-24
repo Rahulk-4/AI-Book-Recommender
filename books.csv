@@ -1,0 +1,301 @@
+book_id,title,author,genre,rating,description,image_url
+1,Harry Potter,J.K. Rowling,Fantasy,4.8,Magic school adventure,https://covers.openlibrary.org/b/id/7984916-L.jpg
+2,The Hobbit,J.R.R. Tolkien,Fantasy,4.7,Adventure in middle earth,https://covers.openlibrary.org/b/id/6979861-L.jpg
+3,Atomic Habits,James Clear,Self-help,4.6,Build good habits and break bad ones,https://covers.openlibrary.org/b/id/9259256-L.jpg
+4,Rich Dad Poor Dad,Robert Kiyosaki,Finance,4.5,Personal finance and investing lessons,https://covers.openlibrary.org/b/id/240726-L.jpg
+5,The Alchemist,Paulo Coelho,Fiction,4.4,Journey of self discovery,https://covers.openlibrary.org/b/id/8277896-L.jpg
+6,Think and Grow Rich,Napoleon Hill,Finance,4.3,Success mindset and wealth principles,https://covers.openlibrary.org/b/id/8231856-L.jpg
+7,Ikigai,Hector Garcia,Self-help,4.2,Japanese concept of life purpose,https://covers.openlibrary.org/b/id/9251996-L.jpg
+8,The Silent Patient,Alex Michaelides,Thriller,4.5,Psychological thriller story,https://covers.openlibrary.org/b/id/9259256-L.jpg
+9,The Power of Habit,Charles Duhigg,Self-help,4.6,Science of habit formation,https://covers.openlibrary.org/b/id/8231856-L.jpg
+10,Deep Work,Cal Newport,Self-help,4.7,Focus and productivity improvement,https://covers.openlibrary.org/b/id/8277896-L.jpg
+11,The 5 AM Club,Robin Sharma,Self-help,4.4,Morning routine for success,https://covers.openlibrary.org/b/id/9251996-L.jpg
+12,Sapiens,Yuval Noah Harari,History,4.7,History of human evolution,https://covers.openlibrary.org/b/id/240726-L.jpg
+13,Zero to One,Peter Thiel,Business,4.5,Startup and innovation guide,https://covers.openlibrary.org/b/id/7984916-L.jpg
+14,Think Like a Monk,Jay Shetty,Self-help,4.6,Mindfulness and mental clarity,https://covers.openlibrary.org/b/id/9259256-L.jpg
+15,The Psychology of Money,Morgan Housel,Finance,4.6,Behavior of money and investing,https://covers.openlibrary.org/b/id/8231856-L.jpg
+16,Start With Why,Simon Sinek,Business,4.5,Leadership and purpose driven work,https://covers.openlibrary.org/b/id/8277896-L.jpg
+17,Can't Hurt Me,David Goggins,Self-help,4.7,Mental toughness and discipline,https://covers.openlibrary.org/b/id/9251996-L.jpg
+18,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-help,4.5,Practical life advice,https://covers.openlibrary.org/b/id/9259256-L.jpg
+19,Make Your Bed,William McRaven,Self-help,4.4,Small habits for big success,https://covers.openlibrary.org/b/id/8231856-L.jpg
+20,The Monk Who Sold His Ferrari,Robin Sharma,Self-help,4.3,Spiritual success story,https://covers.openlibrary.org/b/id/8277896-L.jpg
+21,Dune,Frank Herbert,Sci-Fi,4.8,Epic desert planet saga with politics and ecology,https://covers.openlibrary.org/b/id/861609-M.jpg
+22,Foundation,Isaac Asimov,Sci-Fi,4.7,Galactic empire collapse and psychohistory,https://covers.openlibrary.org/b/id/823996-L.jpg
+23,Neuromancer,William Gibson,Sci-Fi,4.6,Cyberpunk hacking in dystopian future,https://covers.openlibrary.org/b/id/1030540-L.jpg
+24,The Martian,Andy Weir,Sci-Fi,4.9,Survival on Mars with science and humor,https://covers.openlibrary.org/b/id/9443410-L.jpg
+25,Ready Player One,Ernest Cline,Sci-Fi,4.5,Virtual reality treasure hunt adventure,https://covers.openlibrary.org/b/id/13196779-L.jpg
+26,1984,George Orwell,Sci-Fi,4.8,Dystopian surveillance society classic,https://covers.openlibrary.org/b/id/6556185-L.jpg
+27,Brave New World,Aldous Huxley,Sci-Fi,4.6,Engineered society and loss of humanity,https://covers.openlibrary.org/b/id/6462002-L.jpg
+28,Hyperion,Dan Simmons,Sci-Fi,4.7,Pilgrimage tales in far future universe,https://covers.openlibrary.org/b/id/6800586-L.jpg
+29,Project Hail Mary,Andy Weir,Sci-Fi,4.9,Lone astronaut saves Earth from disaster,https://covers.openlibrary.org/b/id/13449699-L.jpg
+30,Children of Time,Adrian Tchaikovsky,Sci-Fi,4.7,Evolution of spiders and human survivors,https://covers.openlibrary.org/b/id/12436248-L.jpg
+31,Pride and Prejudice,Jane Austen,Romance,4.7,Classic love story with wit and social satire,https://covers.openlibrary.org/b/id/6896731-L.jpg
+32,Jane Eyre,Charlotte Bronte,Romance,4.6,Gothic romance and personal growth journey,https://covers.openlibrary.org/b/id/433339-M.jpg
+33,The Notebook,Nicholas Sparks,Romance,4.4,Timeless love spanning decades,https://covers.openlibrary.org/b/id/6485029-L.jpg
+34,Me Before You,Jojo Moyes,Romance,4.5,Life-changing love with emotional depth,https://covers.openlibrary.org/b/id/7701600-L.jpg
+35,Outlander,Diana Gabaldon,Romance,4.6,Time travel romance in Scottish highlands,https://covers.openlibrary.org/b/id/6521659-L.jpg
+36,The Duke and I,Julia Quinn,Romance,4.4,Regency era fake courtship turns real,https://covers.openlibrary.org/b/id/8664213-L.jpg
+37,Bridgerton,Julia Quinn,Romance,4.5,Society scandals and passionate romance,https://covers.openlibrary.org/b/id/42836788-L.jpg
+38,It Ends With Us,Colleen Hoover,Romance,4.6,Complex love amid abuse and healing,https://covers.openlibrary.org/b/id/10045825-L.jpg
+39,The Love Hypothesis,Ali Hazelwood,Romance,4.5,Fake dating trope in academic setting,https://covers.openlibrary.org/b/id/13782789-L.jpg
+40,Eleanor & Park,Rainbow Rowell,Romance,4.7,1980s teen romance sweet and heartfelt,https://covers.openlibrary.org/b/id/7996188-L.jpg
+41,The Da Vinci Code,Dan Brown,Mystery,4.6,Art heist uncovering religious secrets,https://covers.openlibrary.org/b/id/6944900-L.jpg
+42,Gone Girl,Gillian Flynn,Thriller,4.5,Twisted marriage disappearance mystery,https://covers.openlibrary.org/b/id/8644111-L.jpg
+43,The Girl on the Train,Paula Hawkins,Thriller,4.4,Unreliable narrator witnesses crime,https://covers.openlibrary.org/b/id/9894504-L.jpg
+44,And Then There Were None,Agatha Christie,Mystery,4.8,Isolated island mass murder classic,https://covers.openlibrary.org/b/id/1055638-L.jpg
+45,The Murder of Roger Ackroyd,Agatha Christie,Mystery,4.7,Unreliable narrator shocks readers,https://covers.openlibrary.org/b/id/1722161-L.jpg
+46,Sharp Objects,Gillian Flynn,Thriller,4.5,Journalist returns to hometown horrors,https://covers.openlibrary.org/b/id/8644111-L.jpg
+47,Big Little Lies,Liane Moriarty,Thriller,4.6,Parent community secrets unravel,https://covers.openlibrary.org/b/id/9410131-L.jpg
+48,The Woman in the Window,A.J. Finn,Thriller,4.4,Agoraphobic voyeur witnesses crime,https://covers.openlibrary.org/b/id/11599590-L.jpg
+49,Verity,Colleen Hoover,Thriller,4.7,Author's manuscript reveals dark truths,https://covers.openlibrary.org/b/id/10045825-L.jpg
+50,The Silent Patient,Alex Michaelides,Thriller,4.5,Psychological thriller story,https://covers.openlibrary.org/b/id/9259256-L.jpg
+51,Becoming,Michelle Obama,Biography,4.8,Inspiring journey to first lady,https://covers.openlibrary.org/b/id/10380711-L.jpg
+52,The Diary of a Young Girl,Anne Frank,Biography,4.9,Holocaust diary of hope and fear,https://covers.openlibrary.org/b/id/877233-L.jpg
+53,Educated,Tara Westover,Biography,4.7,Memoir of self-education from isolation,https://covers.openlibrary.org/b/id/10784727-L.jpg
+54,Born a Crime,Trevor Noah,Biography,4.6,Comedy in apartheid South Africa,https://covers.openlibrary.org/b/id/10091587-L.jpg
+55,Steve Jobs,Walter Isaacson,Biography,4.5,Innovator biography with insights,https://covers.openlibrary.org/b/id/7431420-L.jpg
+56,Open,Andre Agassi,Biography,4.7,Tennis star's raw honest memoir,https://covers.openlibrary.org/b/id/6538038-L.jpg
+57,Long Walk to Freedom,Nelson Mandela,Biography,4.8,Anti-apartheid leader life story,https://covers.openlibrary.org/b/id/178140-L.jpg
+58,The Autobiography of Malcolm X,Malcolm X,Biography,4.7,Transformation and civil rights journey,https://covers.openlibrary.org/b/id/292473-M.jpg
+59,I Am Malala,Malala Yousafzai,Biography,4.8,Education activist survival story,https://covers.openlibrary.org/b/id/9123455-L.jpg
+60,Elon Musk,Ashlee Vance,Biography,4.6,Entrepreneur building future empires,https://covers.openlibrary.org/b/id/9670308-L.jpg
+61,To Kill a Mockingbird,Harper Lee,Classic,4.9,Moral growth in racial injustice South,https://covers.openlibrary.org/b/id/3920675-L.jpg
+62,The Great Gatsby,F. Scott Fitzgerald,Classic,4.7,Jazz Age American Dream illusion,https://covers.openlibrary.org/b/id/1857678-L.jpg
+63,Pride and Prejudice,Jane Austen,Classic,4.8,Elizabeth Bennet vs pride prejudice,https://covers.openlibrary.org/b/id/6896731-L.jpg
+64,Jane Eyre,Charlotte Bronte,Classic,4.7,Orphan finds love independence strength,https://covers.openlibrary.org/b/id/433339-M.jpg
+65,1984,George Orwell,Classic,4.9,Totalitarian surveillance nightmare,https://covers.openlibrary.org/b/id/6556185-L.jpg
+66,Animal Farm,George Orwell,Classic,4.6,Political allegory farm revolution,https://covers.openlibrary.org/b/id/5782748-L.jpg
+67,The Catcher in the Rye,J.D. Salinger,Classic,4.4,Teen angst phoniness rebellion,https://covers.openlibrary.org/b/id/1120915-L.jpg
+68,Lord of the Flies,William Golding,Classic,4.5,Boys island descent into savagery,https://covers.openlibrary.org/b/id/2977771-L.jpg
+69,Of Mice and Men,John Steinbeck,Classic,4.6,Friendship dreams Great Depression,https://covers.openlibrary.org/b/id/1471794-L.jpg
+70,The Old Man and the Sea,Ernest Hemingway,Classic,4.7,Old fisherman's epic struggle sea,https://covers.openlibrary.org/b/id/156623-L.jpg
+71,The Shining,Stephen King,Horror,4.8,Haunted hotel psychological horror,https://covers.openlibrary.org/b/id/8231996-L.jpg
+72,Dracula,Bram Stoker,Horror,4.7,Vampire gothic horror classic,https://covers.openlibrary.org/b/id/7222246-L.jpg
+73,Frankenstein,Mary Shelley,Horror,4.6,Scientist creates terrifying monster,https://covers.openlibrary.org/b/id/8226191-L.jpg
+74,IT,Stephen King,Horror,4.8,Shape shifting evil terrorizes town,https://covers.openlibrary.org/b/id/8319256-L.jpg
+75,Pet Sematary,Stephen King,Horror,4.5,Dark resurrection horror story,https://covers.openlibrary.org/b/id/8231856-L.jpg
+76,The Exorcist,William Peter Blatty,Horror,4.6,Demonic possession horror classic,https://covers.openlibrary.org/b/id/9259256-L.jpg
+77,Coraline,Neil Gaiman,Horror,4.5,Creepy alternate world adventure,https://covers.openlibrary.org/b/id/6979861-L.jpg
+78,Bird Box,Josh Malerman,Horror,4.4,Blind survival against unseen creatures,https://covers.openlibrary.org/b/id/7984916-L.jpg
+79,Mexican Gothic,Silvia Moreno-Garcia,Horror,4.3,Gothic mystery in haunted mansion,https://covers.openlibrary.org/b/id/8277896-L.jpg
+80,House of Leaves,Mark Z. Danielewski,Horror,4.6,Experimental horror labyrinth story,https://covers.openlibrary.org/b/id/240726-L.jpg
+81,The Name of the Wind,Patrick Rothfuss,Fantasy,4.9,Legendary wizard tells his story,https://covers.openlibrary.org/b/id/823996-L.jpg
+82,Mistborn,Brandon Sanderson,Fantasy,4.8,Magic rebellion against dark empire,https://covers.openlibrary.org/b/id/861609-M.jpg
+83,The Way of Kings,Brandon Sanderson,Fantasy,4.9,Epic war and magical destiny,https://covers.openlibrary.org/b/id/9443410-L.jpg
+84,A Game of Thrones,George R.R. Martin,Fantasy,4.8,Political fantasy battle for throne,https://covers.openlibrary.org/b/id/1030540-L.jpg
+85,The Lies of Locke Lamora,Scott Lynch,Fantasy,4.7,Master thieves in fantasy city,https://covers.openlibrary.org/b/id/13196779-L.jpg
+86,Wheel of Time,Robert Jordan,Fantasy,4.7,Chosen hero against dark force,https://covers.openlibrary.org/b/id/6556185-L.jpg
+87,Eragon,Christopher Paolini,Fantasy,4.5,Dragon rider fantasy adventure,https://covers.openlibrary.org/b/id/6462002-L.jpg
+88,Percy Jackson,Rick Riordan,Fantasy,4.8,Greek mythology modern adventure,https://covers.openlibrary.org/b/id/6800586-L.jpg
+89,The Chronicles of Narnia,C.S. Lewis,Fantasy,4.7,Children discover magical kingdom,https://covers.openlibrary.org/b/id/12436248-L.jpg
+90,The Priory of the Orange Tree,Samantha Shannon,Fantasy,4.6,Dragon fantasy with strong queens,https://covers.openlibrary.org/b/id/6896731-L.jpg
+91,The Intelligent Investor,Benjamin Graham,Finance,4.9,Value investing principles and strategies,https://covers.openlibrary.org/b/id/433339-M.jpg
+92,One Up On Wall Street,Peter Lynch,Finance,4.8,Successful stock market investing guide,https://covers.openlibrary.org/b/id/6485029-L.jpg
+93,Money Master the Game,Tony Robbins,Finance,4.6,Financial freedom and investing advice,https://covers.openlibrary.org/b/id/6521659-L.jpg
+94,The Richest Man in Babylon,George Clason,Finance,4.7,Ancient wealth building lessons,https://covers.openlibrary.org/b/id/8664213-L.jpg
+95,Common Stocks and Uncommon Profits,Philip Fisher,Finance,4.6,Long term investing wisdom,https://covers.openlibrary.org/b/id/42836788-L.jpg
+96,Good to Great,Jim Collins,Business,4.8,Why some companies become successful,https://covers.openlibrary.org/b/id/10045825-L.jpg
+97,The Lean Startup,Eric Ries,Business,4.7,Startup innovation and rapid experimentation,https://covers.openlibrary.org/b/id/7996188-L.jpg
+98,Blue Ocean Strategy,W. Chan Kim,Business,4.6,Creating uncontested market space,https://covers.openlibrary.org/b/id/6944900-L.jpg
+99,Rework,Jason Fried,Business,4.5,Modern business and productivity ideas,https://covers.openlibrary.org/b/id/8644111-L.jpg
+100,The Hard Thing About Hard Things,Ben Horowitz,Business,4.7,Leadership during startup struggles,https://covers.openlibrary.org/b/id/9894504-L.jpg
+101,Clean Code,Robert C. Martin,Technology,4.9,Writing readable and maintainable code,https://covers.openlibrary.org/b/id/1055638-L.jpg
+102,The Pragmatic Programmer,Andrew Hunt,Technology,4.8,Practical software engineering techniques,https://covers.openlibrary.org/b/id/1722161-L.jpg
+103,Introduction to Algorithms,Thomas H. Cormen,Technology,4.7,Comprehensive algorithms reference book,https://covers.openlibrary.org/b/id/8644111-L.jpg
+104,Artificial Intelligence A Modern Approach,Stuart Russell,Technology,4.8,Core concepts of artificial intelligence,https://covers.openlibrary.org/b/id/9410131-L.jpg
+105,Hands-On Machine Learning,Aurelien Geron,Technology,4.9,Machine learning with Python guide,https://covers.openlibrary.org/b/id/11599590-L.jpg
+106,Python Crash Course,Eric Matthes,Technology,4.7,Beginner friendly Python programming,https://covers.openlibrary.org/b/id/10045825-L.jpg
+107,Deep Learning,Ian Goodfellow,Technology,4.8,Foundations of deep learning,https://covers.openlibrary.org/b/id/10380711-L.jpg
+108,The Phoenix Project,Gene Kim,Technology,4.6,IT management and DevOps novel,https://covers.openlibrary.org/b/id/877233-L.jpg
+109,Grokking Algorithms,Aditya Bhargava,Technology,4.8,Visual explanation of algorithms,https://covers.openlibrary.org/b/id/10784727-L.jpg
+110,Designing Data Intensive Applications,Martin Kleppmann,Technology,4.9,Modern scalable system architecture,https://covers.openlibrary.org/b/id/10091587-L.jpg
+111,Meditations,Marcus Aurelius,Philosophy,4.9,Stoic philosophy and self reflection,https://covers.openlibrary.org/b/id/7431420-L.jpg
+112,The Republic,Plato,Philosophy,4.7,Justice and ideal society discussion,https://covers.openlibrary.org/b/id/6538038-L.jpg
+113,Beyond Good and Evil,Friedrich Nietzsche,Philosophy,4.6,Morality and human nature analysis,https://covers.openlibrary.org/b/id/178140-L.jpg
+114,Man's Search for Meaning,Viktor Frankl,Philosophy,4.9,Finding purpose through suffering,https://covers.openlibrary.org/b/id/292473-M.jpg
+115,Thus Spoke Zarathustra,Friedrich Nietzsche,Philosophy,4.5,Philosophical poetic exploration,https://covers.openlibrary.org/b/id/9123455-L.jpg
+116,Crime and Punishment,Fyodor Dostoevsky,Classic,4.9,Guilt morality and redemption story,https://covers.openlibrary.org/b/id/9670308-L.jpg
+117,War and Peace,Leo Tolstoy,Classic,4.8,Russian society during Napoleonic wars,https://covers.openlibrary.org/b/id/3920675-L.jpg
+118,The Brothers Karamazov,Fyodor Dostoevsky,Classic,4.9,Faith doubt and family conflict,https://covers.openlibrary.org/b/id/1857678-L.jpg
+119,Don Quixote,Miguel de Cervantes,Classic,4.7,Adventures of delusional knight,https://covers.openlibrary.org/b/id/6896731-L.jpg
+120,Les Miserables,Victor Hugo,Classic,4.8,Justice mercy and revolution epic,https://covers.openlibrary.org/b/id/433339-M.jpg
+121,Anna Karenina,Leo Tolstoy,Classic,4.7,Love betrayal and Russian society,https://covers.openlibrary.org/b/id/5782748-L.jpg
+122,The Picture of Dorian Gray,Oscar Wilde,Classic,4.6,Vanity corruption and immortality,https://covers.openlibrary.org/b/id/1120915-L.jpg
+123,Wuthering Heights,Emily Bronte,Classic,4.5,Dark obsessive romantic tragedy,https://covers.openlibrary.org/b/id/2977771-L.jpg
+124,Rebecca,Daphne du Maurier,Mystery,4.7,Gothic suspense with hidden secrets,https://covers.openlibrary.org/b/id/1471794-L.jpg
+125,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,4.8,Sherlock Holmes investigates supernatural mystery,https://covers.openlibrary.org/b/id/156623-L.
+126,The Road,Cormac McCarthy,Post-Apocalyptic,4.7,Father and son survive ruined world,https://covers.openlibrary.org/b/id/240726-L.jpg
+127,Fahrenheit 451,Ray Bradbury,Dystopian,4.8,Books banned in futuristic society,https://covers.openlibrary.org/b/id/7984916-L.jpg
+128,The Handmaid's Tale,Margaret Atwood,Dystopian,4.7,Oppressive regime controlling women,https://covers.openlibrary.org/b/id/8277896-L.jpg
+129,Station Eleven,Emily St. John Mandel,Dystopian,4.6,Art and survival after pandemic,https://covers.openlibrary.org/b/id/8231856-L.jpg
+130,The Road to Wigan Pier,George Orwell,History,4.5,Working class life exploration,https://covers.openlibrary.org/b/id/9259256-L.jpg
+131,Thinking Fast and Slow,Daniel Kahneman,Psychology,4.9,Human decision making explained,https://covers.openlibrary.org/b/id/9251996-L.jpg
+132,Influence,Robert Cialdini,Psychology,4.8,Science of persuasion and influence,https://covers.openlibrary.org/b/id/861609-M.jpg
+133,Drive,Daniel Pink,Psychology,4.6,Motivation and human behavior study,https://covers.openlibrary.org/b/id/823996-L.jpg
+134,Emotional Intelligence,Daniel Goleman,Psychology,4.7,Understanding emotions and success,https://covers.openlibrary.org/b/id/9443410-L.jpg
+135,Quiet,Susan Cain,Psychology,4.6,Power of introverts in society,https://covers.openlibrary.org/b/id/1030540-L.jpg
+136,The Art of War,Sun Tzu,Philosophy,4.8,Ancient strategy and warfare wisdom,https://covers.openlibrary.org/b/id/13196779-L.jpg
+137,Atomic Attraction,Christopher Canwell,Romance,4.3,Modern relationships and attraction,https://covers.openlibrary.org/b/id/6556185-L.jpg
+138,Digital Fortress,Dan Brown,Thriller,4.4,Cryptography conspiracy thriller adventure,https://covers.openlibrary.org/b/id/6462002-L.jpg
+139,Angels and Demons,Dan Brown,Thriller,4.7,Secret societies and Vatican mystery,https://covers.openlibrary.org/b/id/6800586-L.jpg
+140,Inferno,Dan Brown,Thriller,4.5,Global pandemic mystery chase,https://covers.openlibrary.org/b/id/12436248-L.jpg
+141,The Lost Symbol,Dan Brown,Thriller,4.4,Masonic secrets and hidden codes,https://covers.openlibrary.org/b/id/6896731-L.jpg
+142,Origin,Dan Brown,Thriller,4.6,Science versus religion mystery,https://covers.openlibrary.org/b/id/433339-M.jpg
+143,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,4.8,Investigative hacker solves dark crimes,https://covers.openlibrary.org/b/id/6485029-L.jpg
+144,Before I Go to Sleep,S.J. Watson,Thriller,4.5,Memory loss psychological suspense,https://covers.openlibrary.org/b/id/6521659-L.jpg
+145,Shutter Island,Dennis Lehane,Thriller,4.7,Mental asylum investigation twist,https://covers.openlibrary.org/b/id/8664213-L.jpg
+146,Dark Matter,Blake Crouch,Sci-Fi,4.9,Parallel universe science fiction thriller,https://covers.openlibrary.org/b/id/42836788-L.jpg
+147,Recursion,Blake Crouch,Sci-Fi,4.8,Memory manipulation and time reality,https://covers.openlibrary.org/b/id/10045825-L.jpg
+148,Snow Crash,Neal Stephenson,Sci-Fi,4.7,Virtual reality cyberpunk adventure,https://covers.openlibrary.org/b/id/7996188-L.jpg
+149,Altered Carbon,Richard Morgan,Sci-Fi,4.6,Human consciousness transfer future noir,https://covers.openlibrary.org/b/id/6944900-L.jpg
+150,Do Androids Dream of Electric Sheep,Philip K. Dick,Sci-Fi,4.8,Android identity philosophical thriller,https://covers.openlibrary.org/b/id/8644111-L.jpg
+151,The Midnight Library,Matt Haig,Fiction,4.8,Parallel lives and regret exploration,https://covers.openlibrary.org/b/id/9894504-L.jpg
+152,A Man Called Ove,Fredrik Backman,Fiction,4.9,Grumpy old man finds friendship,https://covers.openlibrary.org/b/id/1055638-L.jpg
+153,The Kite Runner,Khaled Hosseini,Fiction,4.9,Friendship guilt and redemption story,https://covers.openlibrary.org/b/id/1722161-L.jpg
+154,A Thousand Splendid Suns,Khaled Hosseini,Fiction,4.8,Women surviving hardship in Afghanistan,https://covers.openlibrary.org/b/id/8644111-L.jpg
+155,The Book Thief,Markus Zusak,Fiction,4.9,Nazi Germany narrated by death,https://covers.openlibrary.org/b/id/9410131-L.jpg
+156,Life of Pi,Yann Martel,Fiction,4.7,Survival story with Bengal tiger,https://covers.openlibrary.org/b/id/11599590-L.jpg
+157,The Fault in Our Stars,John Green,Romance,4.7,Teenagers facing illness and love,https://covers.openlibrary.org/b/id/10045825-L.jpg
+158,Looking for Alaska,John Green,Romance,4.5,Teen friendship and emotional discovery,https://covers.openlibrary.org/b/id/10380711-L.jpg
+159,Paper Towns,John Green,Romance,4.4,Mystery journey to find missing girl,https://covers.openlibrary.org/b/id/877233-L.jpg
+160,Normal People,Sally Rooney,Romance,4.6,Complicated modern young relationship,https://covers.openlibrary.org/b/id/10784727-L.jpg
+161,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Romance,4.9,Hollywood icon reveals hidden truth,https://covers.openlibrary.org/b/id/10091587-L.jpg
+162,Daisy Jones and The Six,Taylor Jenkins Reid,Fiction,4.7,Fictional rock band's dramatic rise,https://covers.openlibrary.org/b/id/7431420-L.jpg
+163,Malibu Rising,Taylor Jenkins Reid,Fiction,4.5,Family secrets during glamorous party,https://covers.openlibrary.org/b/id/6538038-L.jpg
+164,Veronika Decides to Die,Paulo Coelho,Fiction,4.6,Meaning of life and freedom,https://covers.openlibrary.org/b/id/178140-L.jpg
+165,The Forty Rules of Love,Elif Shafak,Romance,4.8,Spiritual love and Rumi philosophy,https://covers.openlibrary.org/b/id/292473-M.jpg
+166,The Secret,Rhonda Byrne,Self-help,4.3,Law of attraction explained simply,https://covers.openlibrary.org/b/id/9123455-L.jpg
+167,Who Moved My Cheese,Spencer Johnson,Self-help,4.5,Adapting to change in life,https://covers.openlibrary.org/b/id/9670308-L.jpg
+168,Eat That Frog,Brian Tracy,Self-help,4.6,Productivity and time management,https://covers.openlibrary.org/b/id/3920675-L.jpg
+169,Unlimited Power,Tony Robbins,Self-help,4.5,Personal development and motivation,https://covers.openlibrary.org/b/id/1857678-L.jpg
+170,Awaken the Giant Within,Tony Robbins,Self-help,4.7,Control emotions and life success,https://covers.openlibrary.org/b/id/6896731-L.jpg
+171,The Mountain Is You,Brianna Wiest,Self-help,4.7,Self sabotage and healing guide,https://covers.openlibrary.org/b/id/433339-M.jpg
+172,12 Rules for Life,Jordan Peterson,Self-help,4.6,Discipline and responsibility lessons,https://covers.openlibrary.org/b/id/5782748-L.jpg
+173,The Courage to Be Disliked,Fumitake Koga,Self-help,4.7,Japanese philosophy for happiness,https://covers.openlibrary.org/b/id/1120915-L.jpg
+174,Essentialism,Greg McKeown,Self-help,4.6,Focus on what truly matters,https://covers.openlibrary.org/b/id/2977771-L.jpg
+175,Mindset,Carol Dweck,Psychology,4.8,Growth mindset and learning success,https://covers.openlibrary.org/b/id/1471794-L.jpg
+176,Hooked,Nir Eyal,Business,4.5,Building habit forming products,https://covers.openlibrary.org/b/id/156623-L.jpg
+177,Crushing It,Gary Vaynerchuk,Business,4.4,Personal branding and social media,https://covers.openlibrary.org/b/id/240726-L.jpg
+178,The 4-Hour Workweek,Tim Ferriss,Business,4.6,Escape traditional office lifestyle,https://covers.openlibrary.org/b/id/7984916-L.jpg
+179,Shoe Dog,Phil Knight,Biography,4.9,Nike founder entrepreneurial journey,https://covers.openlibrary.org/b/id/8277896-L.jpg
+180,Greenlights,Matthew McConaughey,Biography,4.7,Life lessons and memoir stories,https://covers.openlibrary.org/b/id/8231856-L.jpg
+181,Can't Stop Won't Stop,Jeff Chang,History,4.5,History of hip hop culture,https://covers.openlibrary.org/b/id/9259256-L.jpg
+182,Guns Germs and Steel,Jared Diamond,History,4.8,Civilization development across continents,https://covers.openlibrary.org/b/id/9251996-L.jpg
+183,The Silk Roads,Peter Frankopan,History,4.7,Global history through trade routes,https://covers.openlibrary.org/b/id/861609-M.jpg
+184,SPQR,Mary Beard,History,4.6,Ancient Rome detailed history,https://covers.openlibrary.org/b/id/823996-L.jpg
+185,Cosmos,Carl Sagan,Science,4.9,Universe exploration and astronomy,https://covers.openlibrary.org/b/id/9443410-L.jpg
+186,A Brief History of Time,Stephen Hawking,Science,4.8,Black holes and universe explained,https://covers.openlibrary.org/b/id/1030540-L.jpg
+187,The Selfish Gene,Richard Dawkins,Science,4.7,Evolution and gene centered theory,https://covers.openlibrary.org/b/id/13196779-L.jpg
+188,Astrophysics for People in a Hurry,Neil deGrasse Tyson,Science,4.6,Simple astrophysics for everyone,https://covers.openlibrary.org/b/id/6556185-L.jpg
+189,Brief Answers to the Big Questions,Stephen Hawking,Science,4.7,Thoughts on universe and humanity,https://covers.openlibrary.org/b/id/6462002-L.jpg
+190,The Immortal Life of Henrietta Lacks,Rebecca Skloot,Science,4.8,Medical ethics and immortal cells,https://covers.openlibrary.org/b/id/6800586-L.jpg
+191,Homo Deus,Yuval Noah Harari,History,4.8,Future of humanity and technology,https://covers.openlibrary.org/b/id/12436248-L.jpg
+192,21 Lessons for the 21st Century,Yuval Noah Harari,History,4.7,Modern global challenges analysis,https://covers.openlibrary.org/b/id/6896731-L.jpg
+193,Thinking in Bets,Annie Duke,Psychology,4.6,Decision making under uncertainty,https://covers.openlibrary.org/b/id/433339-M.jpg
+194,Attached,Amir Levine,Psychology,4.5,Attachment theory and relationships,https://covers.openlibrary.org/b/id/6485029-L.jpg
+195,The Power of Now,Eckhart Tolle,Philosophy,4.8,Living in the present moment,https://covers.openlibrary.org/b/id/6521659-L.jpg
+196,Siddhartha,Hermann Hesse,Philosophy,4.7,Spiritual journey toward enlightenment,https://covers.openlibrary.org/b/id/8664213-L.jpg
+197,No Longer Human,Osamu Dazai,Fiction,4.6,Alienation and depression narrative,https://covers.openlibrary.org/b/id/42836788-L.jpg
+198,Norwegian Wood,Haruki Murakami,Fiction,4.8,Love loss and emotional memory,https://covers.openlibrary.org/b/id/10045825-L.jpg
+199,Kafka on the Shore,Haruki Murakami,Fiction,4.7,Surreal magical realism journey,https://covers.openlibrary.org/b/id/7996188-L.jpg
+200,1Q84,Haruki Murakami,Fiction,4.6,Parallel worlds and mysterious cults,https://covers.openlibrary.org/b/id/6944900-L.jpg
+201,The Outsider,Stephen King,Horror,4.6,Murder investigation with supernatural twist,https://covers.openlibrary.org/b/id/8644111-L.jpg
+202,Salem's Lot,Stephen King,Horror,4.7,Vampires invade small town,https://covers.openlibrary.org/b/id/9894504-L.jpg
+203,Cujo,Stephen King,Horror,4.4,Rabid dog terror survival story,https://covers.openlibrary.org/b/id/1055638-L.jpg
+204,Doctor Sleep,Stephen King,Horror,4.6,Sequel to The Shining psychic horror,https://covers.openlibrary.org/b/id/1722161-L.jpg
+205,American Psycho,Bret Easton Ellis,Horror,4.5,Dark satire serial killer story,https://covers.openlibrary.org/b/id/8644111-L.jpg
+206,World War Z,Max Brooks,Horror,4.7,Global zombie apocalypse oral history,https://covers.openlibrary.org/b/id/9410131-L.jpg
+207,I Am Legend,Richard Matheson,Horror,4.8,Lone survivor against vampires,https://covers.openlibrary.org/b/id/11599590-L.jpg
+208,The Haunting of Hill House,Shirley Jackson,Horror,4.7,Classic haunted mansion terror,https://covers.openlibrary.org/b/id/10045825-L.jpg
+209,Dr Sleep,Stephen King,Horror,4.5,Psychic battles and haunted trauma,https://covers.openlibrary.org/b/id/10380711-L.jpg
+210,Carrie,Stephen King,Horror,4.6,Telekinetic revenge high school horror,https://covers.openlibrary.org/b/id/877233-L.jpg
+211,The Final Empire,Brandon Sanderson,Fantasy,4.9,Magical rebellion against immortal ruler,https://covers.openlibrary.org/b/id/10784727-L.jpg
+212,Words of Radiance,Brandon Sanderson,Fantasy,4.9,Epic battles and magical storms,https://covers.openlibrary.org/b/id/10091587-L.jpg
+213,Elantris,Brandon Sanderson,Fantasy,4.6,Fallen magical city redemption story,https://covers.openlibrary.org/b/id/7431420-L.jpg
+214,The Blade Itself,Joe Abercrombie,Fantasy,4.7,Dark fantasy with brutal politics,https://covers.openlibrary.org/b/id/6538038-L.jpg
+215,Assassin's Apprentice,Robin Hobb,Fantasy,4.8,Royal assassin fantasy training story,https://covers.openlibrary.org/b/id/178140-L.jpg
+216,The Black Prism,Brent Weeks,Fantasy,4.7,Magic based on light colors,https://covers.openlibrary.org/b/id/292473-M.jpg
+217,The Eye of the World,Robert Jordan,Fantasy,4.8,Chosen heroes against dark lord,https://covers.openlibrary.org/b/id/9123455-L.jpg
+218,The Poppy War,R.F. Kuang,Fantasy,4.7,War inspired by Chinese history,https://covers.openlibrary.org/b/id/9670308-L.jpg
+219,Legendborn,Tracy Deonn,Fantasy,4.6,Modern Arthurian magic mystery,https://covers.openlibrary.org/b/id/3920675-L.jpg
+220,Shadow and Bone,Leigh Bardugo,Fantasy,4.5,Dark magical kingdom adventure,https://covers.openlibrary.org/b/id/1857678-L.jpg
+221,Leviathan Wakes,James S.A. Corey,Sci-Fi,4.8,Space detective interplanetary mystery,https://covers.openlibrary.org/b/id/6896731-L.jpg
+222,Old Man's War,John Scalzi,Sci-Fi,4.7,Elderly soldiers fight in space,https://covers.openlibrary.org/b/id/433339-M.jpg
+223,The Left Hand of Darkness,Ursula K. Le Guin,Sci-Fi,4.8,Gender and politics alien world,https://covers.openlibrary.org/b/id/5782748-L.jpg
+224,Red Rising,Pierce Brown,Sci-Fi,4.9,Rebellion in futuristic caste system,https://covers.openlibrary.org/b/id/1120915-L.jpg
+225,The Three Body Problem,Liu Cixin,Sci-Fi,4.9,First contact with alien civilization,https://covers.openlibrary.org/b/id/2977771-L.jpg
+226,Ender's Game,Orson Scott Card,Sci-Fi,4.8,Child genius military strategy training,https://covers.openlibrary.org/b/id/1471794-L.jpg
+227,Contact,Carl Sagan,Sci-Fi,4.7,Humanity receives alien message,https://covers.openlibrary.org/b/id/156623-L.jpg
+228,Ringworld,Larry Niven,Sci-Fi,4.6,Exploration of giant alien structure,https://covers.openlibrary.org/b/id/240726-L.jpg
+229,The Forever War,Joe Haldeman,Sci-Fi,4.7,Relativistic war across galaxies,https://covers.openlibrary.org/b/id/7984916-L.jpg
+230,Starship Troopers,Robert Heinlein,Sci-Fi,4.5,Military sci-fi alien warfare,https://covers.openlibrary.org/b/id/8277896-L.jpg
+231,The Rosie Project,Graeme Simsion,Romance,4.6,Awkward professor searches for love,https://covers.openlibrary.org/b/id/8231856-L.jpg
+232,Beach Read,Emily Henry,Romance,4.5,Rival writers fall in love,https://covers.openlibrary.org/b/id/9259256-L.jpg
+233,Book Lovers,Emily Henry,Romance,4.7,Publishing rivals romantic comedy,https://covers.openlibrary.org/b/id/9251996-L.jpg
+234,People We Meet on Vacation,Emily Henry,Romance,4.6,Best friends vacation romance story,https://covers.openlibrary.org/b/id/861609-M.jpg
+235,Red White and Royal Blue,Casey McQuiston,Romance,4.8,Royal romance and political drama,https://covers.openlibrary.org/b/id/823996-L.jpg
+236,Twilight,Stephenie Meyer,Romance,4.4,Vampire human teenage romance,https://covers.openlibrary.org/b/id/9443410-L.jpg
+237,New Moon,Stephenie Meyer,Romance,4.3,Heartbreak and supernatural romance,https://covers.openlibrary.org/b/id/1030540-L.jpg
+238,Eclipse,Stephenie Meyer,Romance,4.3,Love triangle vampire conflict,https://covers.openlibrary.org/b/id/13196779-L.jpg
+239,Breaking Dawn,Stephenie Meyer,Romance,4.4,Final vampire romance showdown,https://covers.openlibrary.org/b/id/6556185-L.jpg
+240,The Time Traveler's Wife,Audrey Niffenegger,Romance,4.7,Love story through time travel,https://covers.openlibrary.org/b/id/6462002-L.jpg
+241,The Dry,Jane Harper,Mystery,4.6,Small town murder investigation drought,https://covers.openlibrary.org/b/id/6800586-L.jpg
+242,In the Woods,Tana French,Mystery,4.5,Detective haunted by childhood trauma,https://covers.openlibrary.org/b/id/12436248-L.jpg
+243,The Reversal,Michael Connelly,Mystery,4.4,Lawyer investigates reopened murder case,https://covers.openlibrary.org/b/id/6896731-L.jpg
+244,The Lincoln Lawyer,Michael Connelly,Mystery,4.6,Defense attorney crime thriller,https://covers.openlibrary.org/b/id/433339-M.jpg
+245,Silent Witness,Richard North Patterson,Mystery,4.3,Courtroom mystery and secrets,https://covers.openlibrary.org/b/id/6485029-L.jpg
+246,The Bone Collector,Jeffery Deaver,Mystery,4.7,Forensic detective serial killer hunt,https://covers.openlibrary.org/b/id/6521659-L.jpg
+247,Kiss the Girls,James Patterson,Thriller,4.5,Psychological serial killer suspense,https://covers.openlibrary.org/b/id/8664213-L.jpg
+248,Along Came a Spider,James Patterson,Thriller,4.6,Detective pursues brilliant criminal mastermind,https://covers.openlibrary.org/b/id/42836788-L.jpg
+249,The Firm,John Grisham,Thriller,4.7,Lawyer trapped in criminal conspiracy,https://covers.openlibrary.org/b/id/10045825-L.jpg
+250,The Client,John Grisham,Thriller,4.5,Young boy witnesses mafia secret,https://covers.openlibrary.org/b/id/7996188-L.jpg
+251,Thinking in Systems,Donella Meadows,Science,4.8,Systems thinking and complexity analysis,https://covers.openlibrary.org/b/id/6944900-L.jpg
+252,The Gene,Siddhartha Mukherjee,Science,4.9,History and science of genetics,https://covers.openlibrary.org/b/id/8644111-L.jpg
+253,The Emperor of All Maladies,Siddhartha Mukherjee,Science,4.8,Biography of cancer medical history,https://covers.openlibrary.org/b/id/9894504-L.jpg
+254,Silent Spring,Rachel Carson,Science,4.7,Environmental science warning pesticides,https://covers.openlibrary.org/b/id/1055638-L.jpg
+255,The Elegant Universe,Brian Greene,Science,4.7,String theory and modern physics,https://covers.openlibrary.org/b/id/1722161-L.jpg
+256,Factfulness,Hans Rosling,Science,4.9,Data driven understanding of world,https://covers.openlibrary.org/b/id/8644111-L.jpg
+257,Surely You're Joking Mr Feynman,Richard Feynman,Science,4.8,Adventures of famous physicist,https://covers.openlibrary.org/b/id/9410131-L.jpg
+258,Why We Sleep,Matthew Walker,Science,4.9,Importance of sleep and health,https://covers.openlibrary.org/b/id/11599590-L.jpg
+259,Behave,Robert Sapolsky,Science,4.8,Human behavior neuroscience exploration,https://covers.openlibrary.org/b/id/10045825-L.jpg
+260,The Body,Bill Bryson,Science,4.7,Human body explained humorously,https://covers.openlibrary.org/b/id/10380711-L.jpg
+261,The Millionaire Fastlane,MJ DeMarco,Finance,4.7,Fast wealth creation mindset,https://covers.openlibrary.org/b/id/877233-L.jpg
+262,I Will Teach You To Be Rich,Ramit Sethi,Finance,4.6,Personal finance for young adults,https://covers.openlibrary.org/b/id/10784727-L.jpg
+263,Your Money or Your Life,Vicki Robin,Finance,4.7,Financial independence and life balance,https://covers.openlibrary.org/b/id/10091587-L.jpg
+264,The Total Money Makeover,Dave Ramsey,Finance,4.5,Debt reduction and savings strategy,https://covers.openlibrary.org/b/id/7431420-L.jpg
+265,Think Like a Freak,Steven Levitt,Finance,4.4,Creative thinking and economic behavior,https://covers.openlibrary.org/b/id/6538038-L.jpg
+266,Leaders Eat Last,Simon Sinek,Business,4.7,Leadership and team trust culture,https://covers.openlibrary.org/b/id/178140-L.jpg
+267,Never Split the Difference,Chris Voss,Business,4.9,Negotiation techniques from FBI agent,https://covers.openlibrary.org/b/id/292473-M.jpg
+268,Atomic Focus,Marco Peters,Business,4.4,Productivity and concentration methods,https://covers.openlibrary.org/b/id/9123455-L.jpg
+269,Measure What Matters,John Doerr,Business,4.7,Objectives and key results strategy,https://covers.openlibrary.org/b/id/9670308-L.jpg
+270,The Innovator's Dilemma,Clayton Christensen,Business,4.8,Disruptive innovation business theory,https://covers.openlibrary.org/b/id/3920675-L.jpg
+271,Zero Fail,Carol Leonnig,Biography,4.6,Inside the secret service operations,https://covers.openlibrary.org/b/id/1857678-L.jpg
+272,Into the Wild,Jon Krakauer,Biography,4.7,Young man abandons modern society,https://covers.openlibrary.org/b/id/6896731-L.jpg
+273,When Breath Becomes Air,Paul Kalanithi,Biography,4.9,Doctor faces terminal illness meaning,https://covers.openlibrary.org/b/id/433339-M.jpg
+274,Wild,Cheryl Strayed,Biography,4.6,Healing journey across Pacific Crest Trail,https://covers.openlibrary.org/b/id/5782748-L.jpg
+275,Kitchen Confidential,Anthony Bourdain,Biography,4.7,Life inside restaurant industry,https://covers.openlibrary.org/b/id/1120915-L.jpg
+276,The Sun Also Rises,Ernest Hemingway,Classic,4.5,Lost generation post war disillusionment,https://covers.openlibrary.org/b/id/2977771-L.jpg
+277,A Tale of Two Cities,Charles Dickens,Classic,4.8,French revolution historical drama,https://covers.openlibrary.org/b/id/1471794-L.jpg
+278,Great Expectations,Charles Dickens,Classic,4.7,Orphan's journey toward maturity,https://covers.openlibrary.org/b/id/156623-L.jpg
+279,Moby Dick,Herman Melville,Classic,4.6,Obsessive hunt for giant whale,https://covers.openlibrary.org/b/id/240726-L.jpg
+280,Heart of Darkness,Joseph Conrad,Classic,4.5,Colonialism and human darkness exploration,https://covers.openlibrary.org/b/id/7984916-L.jpg
+281,The Stranger,Albert Camus,Philosophy,4.8,Existentialism and emotional detachment,https://covers.openlibrary.org/b/id/8277896-L.jpg
+282,The Myth of Sisyphus,Albert Camus,Philosophy,4.7,Absurdism and meaning of life,https://covers.openlibrary.org/b/id/8231856-L.jpg
+283,Being and Nothingness,Jean-Paul Sartre,Philosophy,4.5,Existential freedom and consciousness,https://covers.openlibrary.org/b/id/9259256-L.jpg
+284,Walden,Henry David Thoreau,Philosophy,4.7,Simple living in nature reflection,https://covers.openlibrary.org/b/id/9251996-L.jpg
+285,Letters from a Stoic,Seneca,Philosophy,4.8,Stoic wisdom through letters,https://covers.openlibrary.org/b/id/861609-M.jpg
+286,Digital Minimalism,Cal Newport,Self-help,4.7,Reduce technology distraction and focus,https://covers.openlibrary.org/b/id/823996-L.jpg
+287,The Happiness Advantage,Shawn Achor,Self-help,4.6,Positive psychology for success,https://covers.openlibrary.org/b/id/9443410-L.jpg
+288,Tiny Habits,BJ Fogg,Self-help,4.5,Small behavior changes create success,https://covers.openlibrary.org/b/id/1030540-L.jpg
+289,The Four Agreements,Don Miguel Ruiz,Self-help,4.7,Ancient wisdom for personal freedom,https://covers.openlibrary.org/b/id/13196779-L.jpg
+290,Daring Greatly,Brene Brown,Self-help,4.8,Vulnerability courage and leadership,https://covers.openlibrary.org/b/id/6556185-L.jpg
+291,The Compound Effect,Darren Hardy,Self-help,4.6,Small actions create huge results,https://covers.openlibrary.org/b/id/6462002-L.jpg
+292,Richest Man in Babylon,George Clason,Finance,4.7,Ancient financial wisdom stories,https://covers.openlibrary.org/b/id/6800586-L.jpg
+293,Tools of Titans,Tim Ferriss,Business,4.8,Habits of successful world performers,https://covers.openlibrary.org/b/id/12436248-L.jpg
+294,Deep Survival,Laurence Gonzales,Psychology,4.5,Why people survive extreme danger,https://covers.openlibrary.org/b/id/6896731-L.jpg
+295,Flow,Mihaly Csikszentmihalyi,Psychology,4.8,Optimal experience and happiness theory,https://covers.openlibrary.org/b/id/433339-M.jpg
+296,Blink,Malcolm Gladwell,Psychology,4.7,Power of rapid thinking decisions,https://covers.openlibrary.org/b/id/6485029-L.jpg
+297,Outliers,Malcolm Gladwell,Psychology,4.8,Hidden factors behind extraordinary success,https://covers.openlibrary.org/b/id/6521659-L.jpg
+298,Talking to Strangers,Malcolm Gladwell,Psychology,4.5,Understanding communication misunderstandings society,https://covers.openlibrary.org/b/id/8664213-L.jpg
+299,David and Goliath,Malcolm Gladwell,Psychology,4.6,Underdogs disadvantages and strength,https://covers.openlibrary.org/b/id/42836788-L.jpg
+300,The Tipping Point,Malcolm Gladwell,Psychology,4.7,How small changes create trends,https://covers.openlibrary.org/b/id/10045825-L.jpg
