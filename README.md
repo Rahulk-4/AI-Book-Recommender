@@ -81,19 +81,16 @@ Computer Science Engineering Student
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/<img width="1118" height="697" alt="Screenshot 2026-05-16 202002" src="https://github.com/user-attachments/assets/31ca3a78-d645-4786-ac6d-9d0fcf4a6281" />
-)
+<img width="1000" alt="Home Page" src="https://github.com/user-attachments/assets/31ca3a78-d645-4786-ac6d-9d0fcf4a6281">
 
 ---
 
 ### 🎭 Mood Pick Feature
 
-![Mood Pick](screenshots/<img width="1119" height="699" alt="Screenshot 2026-05-16 204249" src="https://github.com/user-attachments/assets/e5858049-036a-485f-9322-e431ade54037" />
-)
+<img width="1000" alt="Mood Pick" src="https://github.com/user-attachments/assets/e5858049-036a-485f-9322-e431ade54037">
 
 ---
 
 ### 📚 Recommendation Output
 
-![Recommendation Output](screenshots/<img width="1026" height="523" alt="Screenshot 2026-05-16 202028" src="https://github.com/user-attachments/assets/8a94a0c7-169e-43ce-95cb-4a8e955bc4e4" />
-)
+<img width="1000" alt="Recommendation Output" src="https://github.com/user-attachments/assets/8a94a0c7-169e-43ce-95cb-4a8e955bc4e4">
